@@ -2,3 +2,5 @@
 
 
 [Hugging face notebook](https://colab.research.google.com/drive/1pxc-ehTtnVM72-NViET_D2ZqOlpOi2LH?usp=sharing)
+
+[NVIDIA](https://www.nvidia.com/en-us/training/?ncid=em-nurt-331245#cid=dl13_em-nurt_en-us)
